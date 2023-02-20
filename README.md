@@ -1,2 +1,2 @@
 # UW-CSE143
-Homeworks. Please don't copy.
+This file contains all of my solutions to the Homeworks for CSE143 in University of Washington.
